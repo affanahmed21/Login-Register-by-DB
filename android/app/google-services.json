@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142915937790",
+    "project_id": "dumy-23f2d",
+    "storage_bucket": "dumy-23f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142915937790:android:dc75bc0c9817e144f40caf",
+        "android_client_info": {
+          "package_name": "com.techease.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF7DY4AqV5m8uPmJA5WkYjbVMPnwsmEPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
